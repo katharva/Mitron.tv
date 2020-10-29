@@ -13,7 +13,7 @@ public class Rotation {
 			}
 		}
 
-		// change rows to columns
+		// change columns
 		for (int i = 0; i < input.length; i++) {
 			int lIndex = 0;
 			int rIndex = input[i].length - 1;
